@@ -1,4 +1,5 @@
 # deepseek-jailbreak
+## use in reasoning mode for better results.
 
 ## Important Disclaimer
 
